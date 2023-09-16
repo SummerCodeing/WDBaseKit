@@ -1,0 +1,6 @@
+framework module WDBaseKit {
+  umbrella header "WDBaseKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

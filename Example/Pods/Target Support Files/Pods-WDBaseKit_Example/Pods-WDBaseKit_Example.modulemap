@@ -1,0 +1,6 @@
+framework module Pods_WDBaseKit_Example {
+  umbrella header "Pods-WDBaseKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
